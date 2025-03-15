@@ -1,0 +1,11 @@
+NO ./textures/bluestone.png
+SO ./textures/redbrick.png
+WE ./textures/greystone.png
+EA ./textures/mossy.png
+
+F 0,250,0
+C 0,0,255
+
+  1
+ 1E1
+  1
